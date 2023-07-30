@@ -5,10 +5,6 @@ const Footer = () => {
     <div className="footer">
       <div className="top">
         <div>
-          <h1>Trippy</h1>
-          <p>Choose your favourite destination.</p>
-        </div>
-        <div>
           <a href="/">
             <i className="fa-brands fa-facebook-square"></i>
           </a>
